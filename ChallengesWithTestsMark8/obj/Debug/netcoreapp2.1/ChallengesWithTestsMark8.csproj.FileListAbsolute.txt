@@ -53,7 +53,6 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8/obj
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.dll
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.genruntimeconfig.cache
-/Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.csprojAssemblyReference.cache
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.AssemblyInfo.cs
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache

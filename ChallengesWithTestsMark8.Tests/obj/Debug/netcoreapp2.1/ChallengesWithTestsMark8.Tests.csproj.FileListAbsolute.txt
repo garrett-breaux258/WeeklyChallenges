@@ -83,7 +83,6 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8.Tes
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
-/Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csprojAssemblyReference.cache
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
@@ -104,3 +103,4 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8.Tes
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/netcoreapp2.1/ChallengesWithTestsMark8.pdb
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 /Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+/Users/Garrett/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
